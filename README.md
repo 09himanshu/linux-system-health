@@ -3,6 +3,10 @@
 `system_stats.sh` prints a point-in-time overview of a Linux system's health and
 resource usage to the terminal.
 
+## Project URL
+
+[Server Stats](https://roadmap.sh/projects/server-stats)
+
 ## Requirements
 
 - Bash
